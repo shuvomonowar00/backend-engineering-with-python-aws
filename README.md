@@ -1,2 +1,2 @@
 # backend-engineering-with-python-aws
-Coursework for the 'Backend Engineering with Python and AWS' course by poridhi.io
+A repository for projects, assignments, and notes from the poridhi.io course: Backend Engineering with Python and AWS.
